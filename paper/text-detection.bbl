@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{epstein_2017}
+B.~Epstein, ``Deep packet inspection is dead, and here's why,'' Jun 2017.
+
+\bibitem{doi:10.1137/1.9781611972733.3}
+A.~Lazarevic, L.~Ertoz, V.~Kumar, A.~Ozgur, and J.~Srivastava, {\em A
+  Comparative Study of Anomaly Detection Schemes in Network Intrusion
+  Detection}, pp.~25--36.
+
+\bibitem{1212675}
+M.~Thottan and C.~Ji, ``Anomaly detection in ip networks,'' {\em IEEE
+  Transactions on Signal Processing}, vol.~51, pp.~2191--2204, Aug 2003.
+
+\bibitem{cisco_2017}
+``Baseline process best practices white paper,'' May 2017.
+
+\bibitem{7033254}
+T.~{Cejka}, Z.~{Rosa}, and H.~{Kubatova}, ``Stream-wise detection of
+  surreptitious traffic over dns,'' in {\em 2014 IEEE 19th International
+  Workshop on Computer Aided Modeling and Design of Communication Links and
+  Networks (CAMAD)}, pp.~300--304, Dec 2014.
+
+\bibitem{PALMIERI2010737}
+F.~Palmieri and U.~Fiore, ``Network anomaly detection through nonlinear
+  analysis,'' {\em Computers \& Security}, vol.~29, no.~7, pp.~737 -- 755,
+  2010.
+
+\end{thebibliography}

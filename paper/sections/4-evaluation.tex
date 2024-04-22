@@ -1,0 +1,104 @@
+Within each iteration, the current minute of traffic was tested on the best fit of the prior iteration (a minute-worth of data, offset by 30 seconds) and the performance results were recorded. This was repeated over the course of 120 cycles, to cover an hour's worth of traffic, where the performance values for each port were then averaged. The individual performance of each port classifier has been summarized:
+
+\begin{table}[!htb]
+    \caption{LR Classifier Accuracy on Top 10 Ports}
+    \label{t:accuracy}
+    \begin{minipage}{.51\linewidth}
+      \centering
+\begin{tabular}{rc}
+\hline
+\multicolumn{2}{l}{Performance on Source Traffic} \\ \hline
+\rowcolor[HTML]{EFEFEF} 
+\multicolumn{1}{c}{\cellcolor[HTML]{EFEFEF}Port} & Accuracy \\ \hline
+53 & 0.8876 \\
+21 & 0.6132 \\
+514 & 0.5313 \\
+260 & 0.5 \\
+161 & 0.4623 \\
+388 & 0.3645 \\
+443 & 0.3504 \\
+446 & 0.3448 \\
+25 & 0.3356 \\
+873 & 0.3 \\ \hline
+\end{tabular}
+    \end{minipage}%
+    \begin{minipage}{.51\linewidth}
+      \centering
+\begin{tabular}{rc}
+\hline
+\multicolumn{2}{l}{Performance on Destination Traffic} \\ \hline
+\rowcolor[HTML]{EFEFEF} 
+\multicolumn{1}{c}{\cellcolor[HTML]{EFEFEF}Port} & Accuracy \\ \hline
+995 & 0.7167 \\
+514 & 0.4826 \\
+161 & 0.4420 \\
+201 & 0.2889 \\
+389 & 0.2525 \\
+443 & 0.2314 \\
+137 & 0.2026 \\
+21 & 0.1938 \\
+338 & 0.1158 \\
+446 & 0.1005 \\ \hline
+\end{tabular}
+    \end{minipage} 
+\end{table}
+
+Overall classification of the system is quite poor. 14.86\% and 0.88\% on source and destination traffic respectively. But that isn't to say the classifier is without merit. Firstly, we acknowledge that not all traffic behaves linearly and so cannot be classified by this model. This is the foundation of the hierarchical approach which will addressed in the discussion section of this paper. In addition, if we consider only the well-known port traffic that which displays linear characteristics the overall performance increases to 35.28\% and 14.75\% for source and destination traffic. Secondly, investigating the individual performance of select port models reveals clear candidates for linear classification (as seen in Table \ref{t:accuracy}).
+
+%R2 score performance overall was [BLANK] and [BLANK] for source and destination traffic respectively, and the decomposition across all port numbers shows the following:
+
+%\begin{table}[!htb]
+%    \caption{LR Classifier R2 Scores on Top 10 Ports}
+%    \label{t:r2}
+%    \begin{minipage}{.51\linewidth}
+%      \centering
+%\begin{tabular}{rc}
+%\hline
+%\multicolumn{2}{l}{Source Traffic R2 Score} \\ \hline
+%\rowcolor[HTML]{EFEFEF} 
+%\multicolumn{1}{c}{\cellcolor[HTML]{EFEFEF}Port} & Accuracy \\ \hline
+%53 & 0.8876 \\
+%21 & 0.6132 \\
+%514 & 0.5313 \\
+%260 & 0.5 \\
+%161 & 0.4623 \\
+%388 & 0.3645 \\
+%443 & 0.3504 \\
+%446 & 0.3448 \\
+%25 & 0.3356 \\
+%873 & 0.3 \\ \hline
+%\end{tabular}
+%    \end{minipage}%
+%    \begin{minipage}{.51\linewidth}
+%      \centering
+%\begin{tabular}{rc}
+%\hline
+%\multicolumn{2}{l}{Destination Traffic R2 Score} \\ \hline
+%\rowcolor[HTML]{EFEFEF} 
+%\multicolumn{1}{c}{\cellcolor[HTML]{EFEFEF}Port} & Accuracy \\ \hline
+%995 & 0.7167 \\
+%514 & 0.4826 \\
+%161 & 0.4420 \\
+%201 & 0.2889 \\
+%389 & 0.2525 \\
+%443 & 0.2314 \\
+%137 & 0.2026 \\
+%21 & 0.1938 \\
+%338 & 0.1158 \\
+%446 & 0.1005 \\ \hline
+%\end{tabular}
+%    \end{minipage} 
+%\end{table}
+
+\begin{table}[!htb]
+\centering
+\caption{Directionality from Port Information (Example)}
+\label{tab:direction}
+\begin{tabular}{|l|c|l|c|l|}
+\hline
+\rowcolor[HTML]{EFEFEF} 
+\multicolumn{1}{|c|}{\cellcolor[HTML]{EFEFEF}Src IP} & Src Port & \multicolumn{1}{c|}{\cellcolor[HTML]{EFEFEF}Dst IP} & Dst Port & \multicolumn{1}{c|}{\cellcolor[HTML]{EFEFEF}Direction} \\ \hline
+192.168.1.10 & 59001 & 192.168.1.80 & 21 & Client $\rightarrow$ Server \\ \hline
+192.168.1.80 & 21 & 192.168.1.10 & 59001 & Client $\leftarrow$ Server \\ \hline
+\end{tabular}
+\end{table}
