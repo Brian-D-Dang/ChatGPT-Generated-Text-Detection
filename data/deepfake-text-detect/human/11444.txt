@@ -1,0 +1,1 @@
+HNTerm allows you to browse Hacker News within your terminal. It queries the official HN API and displays current stories and comments. HNTerm only shows content that is currently visible. Multiple storiescomment sections can be browsed at the same time using window splits.

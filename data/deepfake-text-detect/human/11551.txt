@@ -1,0 +1,1 @@
+Docker-OSX automates the installation of OSX-KVM inside a docker container. It is possible to customize the size and version of the VM using build arguments.

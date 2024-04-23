@@ -1,0 +1,1 @@
+The Front-End Developer Handbook is a guide for anyone to learn about the practice of front-end development. It was designed for potential and current front-end developers to equip themselves with learning materials and development tools. The handbook can also be used by managers and other people to gain insights into the practice of front-end development.

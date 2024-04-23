@@ -1,0 +1,1 @@
+This tutorial teaches you how to customize your git with badges, icons, a blog, site stats, social media integration, and more. A screenshot of the customizations the article covers is provided at the beginning.

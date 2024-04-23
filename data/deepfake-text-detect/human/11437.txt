@@ -1,0 +1,1 @@
+SQLFlow connects SQL and Tensorflow together so that SQL can be used for machine learning. SQL is a popular data storage solution, so implementing machine learning capabilities to work with it allows more engineers to have access to AI technology. Users are encouraged to provide feedback to contribute to the project.

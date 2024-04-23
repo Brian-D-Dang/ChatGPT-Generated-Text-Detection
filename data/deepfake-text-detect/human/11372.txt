@@ -1,0 +1,1 @@
+new.css is a classless CSS framework that can write modern websites using only HTML. It features a dark mode and support for custom color themes and fonts using CSS variables. new.css is only 4.5kb. There are two customizable pre-made themes.

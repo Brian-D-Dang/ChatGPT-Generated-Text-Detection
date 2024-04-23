@@ -1,0 +1,1 @@
+[substeps] Rooms that are square or rectangular will work better than rooms that have sharp angles or strange shapes. [title] Determine the needs of the computer lab.

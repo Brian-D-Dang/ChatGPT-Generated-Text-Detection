@@ -1,0 +1,1 @@
+Karate is a tool that combines API test-automation, mocks, performance-testing, and UI automation into a single framework. It uses BDD syntax and has powerful JSON and XML assertions built-in. Developers can use Karate to write tests in a simple and readable syntax designed for HTTP, JSON, GraphQL, and XML. Examples and detailed documentation are available.

@@ -1,0 +1,1 @@
+When your flash drive is plugged inmounted, your computer is accessing the files. When you hit the eject button, that is telling your computer to put everything back where it found it because you're about to remove the device. If you just pulled it out, there is a chance that your computer was modifying a file on it that could now be corrupted.

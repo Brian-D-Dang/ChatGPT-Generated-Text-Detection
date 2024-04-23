@@ -1,0 +1,1 @@
+OctoSQL is a query engine that can write standard SQL queries on data stored in multiple databases, NoSQL databases, and files in various formats. If a data source doesn't support a given operation, OctoSQL will execute it in memory. O (n) client tools and large analysis system deployment is unnecessary as everything is contained in a single binary.

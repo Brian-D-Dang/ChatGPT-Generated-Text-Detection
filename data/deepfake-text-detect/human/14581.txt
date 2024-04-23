@@ -1,0 +1,1 @@
+[title] Trim the loose ends at an angle. [step] Both ends should be approximately the same length.

@@ -1,0 +1,1 @@
+A developer has created a way to scale macOS using docker. Each instance is able to access services like iMessage as Docker-OSX generates unique codes for its macOS hardware. The developer has recently released a standalone code generator. Anyone can now participate in Apple's bug bounty program without having to own Apple hardware. Apple doesn't encourage the use of VMs.

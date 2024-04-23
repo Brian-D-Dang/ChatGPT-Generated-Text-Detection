@@ -1,0 +1,1 @@
+Microsoft has updated its Xbox Cloud Gaming app for Android, adding support for the dual-screen Surface Duo. Surface Duo users will see a virtual gamepad on one screen and the game on the other. Microsoft has added Xbox Touch Controls to more than 50 titles. Regular Bluetooth or Xbox controllers can be used with the Surface Duo.

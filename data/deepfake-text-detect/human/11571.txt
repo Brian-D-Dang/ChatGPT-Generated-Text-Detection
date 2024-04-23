@@ -1,0 +1,1 @@
+Element Plus is a Vue.js 3.0 based UI component library for developers, designers, and product managers. It was designed with consistency, feedback, efficiency, and controllability in mind. Examples and demos are available on the main website.

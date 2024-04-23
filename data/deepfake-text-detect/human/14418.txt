@@ -1,0 +1,1 @@
+These chunks are then downloaded from other users who already have that chunk on their computer. Once all of the pieces are downloaded, the file is reconstructed and is ready to use on your computer.

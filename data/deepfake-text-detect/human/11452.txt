@@ -1,0 +1,1 @@
+Deep Daze is a command-line tool for text to image generation using OpenAI's CLIP and Siren. Users simply type a description of an image, for example,'a house in the forest', and it will generate that image. Examples are available in the repository.

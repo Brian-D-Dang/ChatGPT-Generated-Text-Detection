@@ -1,0 +1,1 @@
+Devtron is a platform for operationalizing and maintaining applications on Kubernetes. It features a zero-code software delivery workflow, multi-cloud deployment, an application debugging dashboard, operational insights, and more. Screenshots are available in the repository.

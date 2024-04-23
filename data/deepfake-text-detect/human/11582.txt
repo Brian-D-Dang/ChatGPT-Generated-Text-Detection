@@ -1,0 +1,1 @@
+Beartype is a pure-Python PEP-compliant constant-time runtime type checker. It brings static typing to Python while still preserving the permissive benefits of duck typing. Beartype can be used to assure the quality of Python code beyond what tests alone can assure.

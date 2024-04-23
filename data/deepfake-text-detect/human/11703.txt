@@ -1,0 +1,1 @@
+Falso is a package that can produce fake data in the browser and NodeJS. It features more than 140 functions and it is tree shakeable and fully typed, so unused modules do not become part of the bundle. A live demo is available.

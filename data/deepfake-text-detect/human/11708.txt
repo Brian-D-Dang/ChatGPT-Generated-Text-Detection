@@ -1,0 +1,1 @@
+iRobot has announced today it's first autonomous lawnmower robot. Unlike other autonomous lawnmower robots which require a wire to be laid down to define the robot's boundaries, iRobot's lawnmower robot uses a wireless beacon setup. There is also a mobile app where grass height can be tweaked and other information about the robot can be monitored.

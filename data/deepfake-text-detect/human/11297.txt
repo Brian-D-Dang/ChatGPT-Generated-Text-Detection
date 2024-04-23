@@ -1,0 +1,1 @@
+Easy OCR is a package for detecting text in images. It supports 42 languages, including Chinese, Japanese, Korean, and Thai. Examples and a list of supported languages are available in the repository.

@@ -1,0 +1,1 @@
+[step] If asked for click yes and enter administrator password. [title] In the new window, click on the startup tab.

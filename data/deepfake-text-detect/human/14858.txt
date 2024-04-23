@@ -1,0 +1,1 @@
+[step] Click on the object you have created. Ensure you have selected the right layer in the layer panel before you start to warp your object.

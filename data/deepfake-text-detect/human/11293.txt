@@ -1,0 +1,1 @@
+Appwrite is a set of Docker microservices that serves as an end-to-end backend server for Web, Mobile, Native, or Backend apps. It can be used to easily integrate user authentication methods, databases, storage and file management, Cloud Functions, and more. Appwrite is cross-platform and language agnostic.

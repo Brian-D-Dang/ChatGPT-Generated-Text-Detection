@@ -1,0 +1,1 @@
+Redis 7.0 is now available. It adds almost 50 new commands and options. The most notable improvements are Redis Functions, AVLv2, command introspection, and Sharded PubSub. A lot of development was focused on making Redis more performant, stable, and lean. More details about the update are available in the article.

@@ -1,0 +1,1 @@
+The offline problem of transmission completion time minimization for an energy harvesting transmitter under fading is extended to allow packet arrivals during transmission. A method for computing an optimal power and rate allocation (i.e., an optimal offline schedule) is developed and studied.

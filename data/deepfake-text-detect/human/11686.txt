@@ -1,0 +1,1 @@
+This article follows how a flaw was discovered and exploited in an internal test version of Google Cloud Deployment Manager. The flaw allowed requests to be issued to Google internal endpoints through Google's Global Software Load Balancer, which could have led to remote code execution. The discovery of the flaw resulted in a 31,337 reward.

@@ -1,0 +1,1 @@
+CSS linear gradients get washed out and muddy in the middle unless steps are taken to avoid the effect. This article teaches developers how to avoid the gray dead zone by using different color modes and calculating in-between colors. A gradient generator tool based on the information in the article is available.

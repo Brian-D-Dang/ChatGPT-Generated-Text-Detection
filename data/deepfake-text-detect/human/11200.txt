@@ -1,0 +1,1 @@
+PostgreSQL 14 has a new multirange feature that makes range types in PostgreSQL more powerful. Range types allow developers to store various kinds of intervals with upper and lower bounds. A multirange is a compilation of ranges. This article looks at multiranges in PostgreSQL and gives examples of how to use them.

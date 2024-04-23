@@ -1,0 +1,1 @@
+Golden Gate is a framework that enables secure and reliable communication between IoT devices over Bluetooth Low Energy. It allows developers to easily implement functionality using familiar standards even when the underlying operating system or transport doesn't support those.

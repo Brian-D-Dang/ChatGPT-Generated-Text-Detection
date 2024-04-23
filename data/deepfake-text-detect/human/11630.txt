@@ -1,0 +1,1 @@
+The Windows Calculator app ships pre-installed with Windows. It is written in C and provides standard, scientific, and programmer calculator functionality. Calculator is also able to do measurement and currency conversion. This repository allows users to contribute to the continual development of the calculator, as well as report any issues with the app.

@@ -1,0 +1,1 @@
+Allstar is a GitHub App for setting and enforcing security policies. It can continuously monitor and detect settings and files in repositories to find items that may be risky or do not follow security best practices. When it finds something that is out of compliance, it can take actions such as creating an issue or restoring security settings.

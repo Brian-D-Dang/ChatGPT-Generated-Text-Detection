@@ -1,0 +1,1 @@
+Mostly for writing code. Even though it's used differently in various coding languages, it's used very often in most of them. (Such as in C an example would be n to start a new line) For the same reason that the straight line is right above it, and is used for things like which means OR (as a Boolean expression)

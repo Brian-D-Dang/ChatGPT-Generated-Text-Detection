@@ -1,0 +1,1 @@
+oneshot is an easy way to set up an HTTP server to share files, web pages, or other outputs using the command line. Users just need to specify the path to a file and oneshot will make it available via HTTP on the computer's IP address. Secure file transfers are supported.

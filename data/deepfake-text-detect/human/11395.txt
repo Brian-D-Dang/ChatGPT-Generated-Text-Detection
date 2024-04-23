@@ -1,0 +1,1 @@
+Every machine learning model is based on linear algebra. This document contains introductory level linear algebra notes for applied machine learning. The notes are meant to be used as a reference and are not a comprehensive review.

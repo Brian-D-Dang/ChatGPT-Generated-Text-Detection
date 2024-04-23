@@ -1,0 +1,1 @@
+zx allows you to write Bash scripts using JavaScript. It provides wrappers around childprocess, escapes arguments, and gives sensible defaults. zx can import from other scripts, pass environment variables, and execute remote scripts.

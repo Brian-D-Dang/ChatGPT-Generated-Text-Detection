@@ -1,0 +1,1 @@
+Darling is a runtime environment for macOS applications. It can be used to run macOS applications on most 64-bit x86 Linux distributions. It implements a complete Darwin environment and attempts to fully integrate apps into the Linux desktop experience by making them look, feel, and behave just like native Linux apps.

@@ -1,0 +1,1 @@
+A 0day bug exists in iOS 13.4.1 that allows malicious attackers to steal iMessage history. The bug allows apps to access sms.db and send it to a remote server. Steps for exploiting the bug are detailed in the article. The best way to protect yourself from this exploit is to avoid downloading any suspicious apps before Apple releases the next iOS update

@@ -1,0 +1,1 @@
+Regular Expressions (regex) are a tool for manipulating strings. Regex can sometimes take an extremely long time to match or fail on some strings. This can be exploited by malicious actors in a regex denial of service attack (ReDoS). ReDoS attacks can be prevented by sanitizing the input, choosing a fast regex matching algorithm, or setting a resource usage limit or timeout.

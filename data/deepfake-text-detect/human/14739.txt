@@ -1,0 +1,1 @@
+[title] Go to twitter.com in the second tab. [step] Sign into the twitter account that you want to post to your website.

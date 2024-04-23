@@ -1,0 +1,1 @@
+Porter is a Kubernetes-powered PaaS that runs on any cloud provider. It features one-click provisioning of a Kubernetes cluster for AWS, GCP, and Digital Ocean, a Heroku-like GUI, simple deployment of any Docker image, a marketplace for one-click add-ons, and more.

@@ -1,0 +1,1 @@
+This is a guide for moving from macOS to Linux. It discusses different distros, how to optimize battery life, and various other tweaks to the OS that can make transitioning easier.

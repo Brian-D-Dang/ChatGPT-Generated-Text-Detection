@@ -1,0 +1,1 @@
+To pull an example of a single thread forum off the web: [here] . The only situation where single threads might be good is where a fixed group is involved, such as with some sort of conferenceworkshop or when people are using their own personal calendar.

@@ -1,0 +1,1 @@
+We briefly introduce two submissions to the Illumination Estimation Challenge, in the Int'l Workshop on Color Vision, affiliated to the 11th Int'l Symposium on Image and Signal Processing and Analysis. The fourier-transform-based submission is ranked 3rd, and the statistical Gray-pixel-based one ranked 6th.

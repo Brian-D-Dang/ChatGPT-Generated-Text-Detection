@@ -1,0 +1,1 @@
+24 is easily divisible by 2,3,4,6,8 and 12, while 10 is only divisible by 2 and 5. And since we like to cut up our day in equal parts it's just more practical to do it that way. It's the same reasoning for using 60 minutes in an hour instead of 100, or 12 months in a year instead of 10.

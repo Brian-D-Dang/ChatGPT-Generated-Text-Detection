@@ -1,0 +1,1 @@
+Tailwind UI is a collection of professionally designed, pre-built, fully responsive HTML snippets that can be dropped into Tailwind projects. This page contains a collection of free sample components. Categories include marketing, application UI, tables, forms, navigation, layouts, and elements. Each section provides a basic preview of the element and a link to the HTML code.

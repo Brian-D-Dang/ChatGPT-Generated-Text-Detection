@@ -1,0 +1,1 @@
+SVGs have become popular due to their scalability, flexibility, and how lightweight they are. This article takes a look at SVG techniques such as SVG grids, fractional SVG stars, masks, grainy SVG gradients, and more. It provides links to SVG tools and resources for further learning.

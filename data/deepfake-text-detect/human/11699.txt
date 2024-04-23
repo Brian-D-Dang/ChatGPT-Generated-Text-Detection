@@ -1,0 +1,1 @@
+Disappearing-People is a JavaScript library for removing people from complex backgrounds in real-time. It uses TensorFlow.js in the web browser. A GIF showing a person being removed from the background of a webcam video is available.

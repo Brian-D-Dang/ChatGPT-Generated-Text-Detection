@@ -1,0 +1,1 @@
+I assume you have to push the handle anticlockwise to flush? In that case you'd have to use reversed threading because otherwise the handle would unscrew when you push it.

@@ -1,0 +1,1 @@
+So, you have the sequence: Xn{1,2,3,...,n} such that n is natural. And you're looking for all elements in the closed (because you wanted to include 5 and 10) interval: [5,6,7,8,9,10] Which, if you count the terms, is 6, not 5.,If you want the amount of boxes between m and n inclusive then do n-m 1. So in your case of 5 and 10, we have 10-51 6.

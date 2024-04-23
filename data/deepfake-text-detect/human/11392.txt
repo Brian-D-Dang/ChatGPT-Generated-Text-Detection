@@ -1,0 +1,1 @@
+lego is a fast static site generator that generates optimized, performant websites. It is built with NodeJS, supports Nunjucks and Liquid templates, automatically generates a sitemap and RSS feeds, generates images for various resolutions, live-reloads during development, and more. A demo website is available.

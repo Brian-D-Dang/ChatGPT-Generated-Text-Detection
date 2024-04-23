@@ -1,0 +1,1 @@
+This website contains a collection of JavaScript utilities that fit within a single line of code. Categories include arrays, date time, DOM, number, string, and misc. Users are welcome to contribute to the list.

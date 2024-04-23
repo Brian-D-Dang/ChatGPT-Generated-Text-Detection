@@ -1,0 +1,1 @@
+Linux is a hard to learn OS and seems daunting for the average Windows user. Many things on Windows cannot be used on Linux (Distros I have tried were Mint , Ubuntu, Fedora). I will say that when compared with other distrobutions, as well as how many people use it in my lab at work - there are just more issuesissues to deal with if you want your system to function properly!

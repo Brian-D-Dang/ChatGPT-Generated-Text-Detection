@@ -1,0 +1,1 @@
+Are you spending too much money on cloud computing?. Find out if you're spending too much on cloud computing with Splunk Observability Cloud - In addition to full-fidelity metrics, traces, and logs, Splunk Observability gives you suggestions for saving money on compute and helps lower your MTTD and MTTR too. Learn how this tool helped one customer save over 600k in AWS spend.

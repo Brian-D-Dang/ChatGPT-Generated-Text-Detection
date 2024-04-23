@@ -1,0 +1,1 @@
+Bob was trying to run an 8051 simulator. He went to the download site and grabbed the latest one. Bob was discouraged when he he found it was only a sample. He went back to the website to get the right one. Bob was happy to see his simulated code working.

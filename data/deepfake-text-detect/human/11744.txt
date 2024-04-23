@@ -1,0 +1,1 @@
+This repository contains resources on mobile security. There are two main sections, Android and iOS. Each section contains links to general resources, books, courses, tools, labs, talks, and some other miscellaneous information.

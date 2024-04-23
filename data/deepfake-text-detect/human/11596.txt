@@ -1,0 +1,1 @@
+It is possible to draw appealing animations with just a little SVG, Javascript, and CSS knowledge. This tutorial shows you how to create an animation using JavaScript functions to calculate SVG path length and CSS to animate SVG strokes. The final result, along with the demo code, is available to view and download.

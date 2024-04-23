@@ -1,0 +1,1 @@
+Rotate the crown clockwise or counterclockwise until the hands reach the desired time. Return the crown to its original position by pushing it back in towards the watch face.

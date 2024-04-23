@@ -1,0 +1,1 @@
+Stanford Pupper is a robot designed to help students get involved with robotics research. It costs around 600-900 to build, depending on if you already own existing tools or parts, and it takes around four to 10 hours to build. A 10-minute video is available showing a demo of Pupper at the Stanford Robotics Club.

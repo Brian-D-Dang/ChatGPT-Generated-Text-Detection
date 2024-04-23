@@ -1,0 +1,1 @@
+TF Quant Finance is a high-performance TensorFlow library for quantitative finance. It provides TensorFlow support for foundational mathematical methods, mid-level methods, and specific pricing models. End-to-end examples are available.

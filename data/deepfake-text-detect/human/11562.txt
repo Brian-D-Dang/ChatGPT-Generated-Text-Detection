@@ -1,0 +1,1 @@
+Google Wallet is returning and may take over Google Pay. Wallet will likely become a place for digital cards, while Pay will remain the primary service for paying for things. It is possible that Wallet will become the main app and Pay will be the name of the service on the backend.

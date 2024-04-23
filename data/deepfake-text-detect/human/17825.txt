@@ -1,0 +1,1 @@
+For me, it's like finding solutions to sudoku: it can be hard and even interesting, but hardly useful for anything out of it's own world. I think even things like RSA encryption could be perfectly done without those higher proofs. (After all encryption IS based in unproven math!) CMV?

@@ -1,0 +1,1 @@
+A new book from a long-time Android engineer offers a behind-the-scenes look at early Android development. This article features two chapters from the book that covers the startup's search for venture capital and the team's eventual meeting with Google. Slides from the original investor presentation are available.

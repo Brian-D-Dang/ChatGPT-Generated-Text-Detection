@@ -1,0 +1,1 @@
+btrace is an Android trace tool based on Systrace. It supports custom and native events, and it can be set to only capture trace events of the main thread. btrace is easy to use and stable and it has lower latency than Systrace.

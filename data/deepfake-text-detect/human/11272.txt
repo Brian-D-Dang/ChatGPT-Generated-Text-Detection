@@ -1,0 +1,1 @@
+Traitor packages methods to exploit local misconfigurations and vulnerabilities in order to gain root access. Users can just run the binary on the target machine and it will exploit most sudo privileges listed in GTFOBins. A GIF demo is available.

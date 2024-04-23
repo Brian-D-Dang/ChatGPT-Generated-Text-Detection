@@ -1,0 +1,1 @@
+Falcon is a free, open-source SQL editor with inline data visualization. It works without an internet connection. Falcon supports connecting to RedShift, MySQL, PostgreSQL, IBM DB2, Impala, MS SQL, Oracle, SQLite, and more.

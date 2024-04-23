@@ -1,0 +1,1 @@
+SvgPathEditor is an in-browser SVG path editor. Users can use the controls to specify a path or create an image using the graphical interface. Paths can be easily copied to be used in your own code.

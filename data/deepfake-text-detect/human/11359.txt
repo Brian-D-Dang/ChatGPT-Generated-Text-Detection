@@ -1,0 +1,1 @@
+Fleet is a build tool for Rust. It can compile up to five times faster than cargo. Fleet works by optimizing builds using existing tooling available in the Rust ecosystem. It is still in beta.

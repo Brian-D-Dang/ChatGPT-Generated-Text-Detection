@@ -1,0 +1,1 @@
+puts an earring in and she sits up.

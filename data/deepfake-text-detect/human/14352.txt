@@ -1,0 +1,1 @@
+It takes the customer's credit card information and verifies and approves the sale. Your merchant account communicates with the card issuer to authenticate the user, confirming that the card is not stolen and that the customer has enough of a balance to pay for the sale.

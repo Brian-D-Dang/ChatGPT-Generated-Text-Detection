@@ -1,0 +1,1 @@
+Dev Tips is sort of a cool novelty newsletter for programmers, it gives a developer tip once a week in the form of a gif. Usually they're pretty short handy things you never knew you wanted, for example there are a ton of useful functionalities in Chrome's Developer Tools that I've discovered through this.

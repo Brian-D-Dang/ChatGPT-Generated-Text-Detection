@@ -1,0 +1,1 @@
+Google recently added a new feature called Self Share that allows users to easily share data between Android and Chrome OS devices. It uses Bluetooth, WebRTS, and peer-to-peer Wi-Fi to send files directly. The feature still needs to go through the Chrome OS Canary developer flag stage before Chrome OS users will see it on their devices.

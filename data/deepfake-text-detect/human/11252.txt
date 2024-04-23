@@ -1,0 +1,1 @@
+AWS SaaS Boost is a tool that helps software developers migrate to a Software-as-a-Service delivery model. It provides core software elements for running SaaS workloads in the cloud, including tenant management, deployment automation, analytics dashboards, billing, and more.

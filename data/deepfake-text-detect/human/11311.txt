@@ -1,0 +1,1 @@
+Pulse is a logging system for Apple Platforms. It records logs locally and they never leave the device. Screenshots of Pulse running on various Apple devices are available in the article.

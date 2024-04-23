@@ -1,0 +1,1 @@
+Distrobox creates fully mutable containers in environments where the file system is immutable or where the user doesn't have privileges to modify the host. Distrobox can be used to run any Linux distribution in the terminal, as well as install development and debugging tools, editors, and SDKs without sudo or access to a traditional package manager.

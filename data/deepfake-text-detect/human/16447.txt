@@ -1,0 +1,1 @@
+Information propagation is a hard task where the goal is to predict users behavior. We introduce an extension of a model which make use of a kernel to modelize diffusion in a latent space. This extension introduce a threhsold to differentiate if users are contaminated or not.

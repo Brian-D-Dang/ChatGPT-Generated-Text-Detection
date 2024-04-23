@@ -1,0 +1,1 @@
+HTTPX is a next-generation HTTP client for Python which aims to provide more functionality than the requests module. In addition to the standard features of requests, HTTPX has sessions with cookie persistence, multipart file uploads, streaming downloads, browser-style SSL verification, and more. It is currently in an alpha development stage.

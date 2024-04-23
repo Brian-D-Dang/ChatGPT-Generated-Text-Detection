@@ -1,0 +1,1 @@
+Medusa is a headless commerce engine for creating digital commerce apps. It can be used as a backend of an app, as an application, to create traditional e-commerce websites, and more. Medusa is highly customizable, flexible, and scalable. It can integrate with popular commerce tools.

@@ -1,0 +1,1 @@
+Find and fix things across all of your code faster with Sourcegraph. See how the most productive dev teams use Sourcegraph to build software you rely on. From remediating vulnerabilities, fixing incidents faster, accelerating developer productivity, streamlining code reuse, and more, our customers use Sourcegraph every day to solve big code problems.

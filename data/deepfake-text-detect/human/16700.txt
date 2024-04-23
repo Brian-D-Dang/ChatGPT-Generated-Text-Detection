@@ -1,0 +1,1 @@
+We evaluate chemical patent word embeddings against known biomedical embeddings and show that they outperform the latter extrinsically and intrinsically. We also show that using contextualized embeddings can induce predictive models of reasonable performance for this domain over a relatively small gold standard.

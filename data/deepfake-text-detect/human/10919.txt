@@ -1,0 +1,1 @@
+Space suits have to seal a pressure differential, with positive pressure inside and vacuum outside. Ambient pressure diving suits have to seal against water leakage, but not at any significant pressure differential. Atmospheric pressure diving suits like this one: URL0 have to seal against immense external pressures.

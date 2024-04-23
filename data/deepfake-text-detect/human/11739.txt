@@ -1,0 +1,1 @@
+This is a really detailed illustrated flowchart for learning to become an expert web developer in 2018, starting from "Learn HTML" and going all the way through complex topics like build toolchains, testing frameworks, static typechecking, etc. Definitely worth a look especially for beginning and intermediate programmers.

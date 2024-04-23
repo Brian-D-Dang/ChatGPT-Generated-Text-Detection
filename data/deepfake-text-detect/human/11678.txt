@@ -1,0 +1,1 @@
+This is a set of 3,000 company logos in SVG format. I actually built the TLDR sponsors page right before I found this, but this would have made it much easier to get a bunch of nice-looking company logos that are all the same size. If you work on commercial sites you might want to bookmark this.

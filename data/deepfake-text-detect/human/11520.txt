@@ -1,0 +1,1 @@
+Machine learning and traditional algorithms are substantially different ways of computing. Researchers are starting to use machine learning to improve the performance of traditional algorithms. This article provides examples of how algorithms with predictions can improve Bloom filters, an algorithm for checking site addresses against a blacklist, and other traditional algorithms.

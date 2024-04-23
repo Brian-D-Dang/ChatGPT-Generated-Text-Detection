@@ -1,0 +1,1 @@
+[substeps] The software will perform the scanning process over the selected database. Wait for the scanning process to get completed.

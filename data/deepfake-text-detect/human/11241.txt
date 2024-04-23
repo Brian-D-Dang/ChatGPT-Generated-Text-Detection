@@ -1,0 +1,1 @@
+Rome is an experimental JavaScript toolchain designed to replace many existing JavaScript tools. All components are custom and there are no third-party dependencies. It includes a compiler, linter, formatter, bundler, testing framework, and more. Rome is currently not ready for production usage and the only way to use it is to build from source.

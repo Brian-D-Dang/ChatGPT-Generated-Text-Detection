@@ -1,0 +1,1 @@
+We give a (2) -approximation algorithm for minimizing total weighted completion time on a single machine under release time and precedence constraints. This settles a recent conjecture made in

@@ -1,0 +1,1 @@
+Identify the root cause of an incident with a single search. Incident response is stressful and overwhelming, but it doesn't need to be. Identify the root cause of an incident, understand its potential impact on other services, and fix the issue everywhere in your codebase so it won't reoccur with Sourcegraph. Learn more.

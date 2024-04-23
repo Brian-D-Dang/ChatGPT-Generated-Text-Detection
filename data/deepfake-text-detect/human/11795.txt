@@ -1,0 +1,1 @@
+Leaf 3 is a PHP framework for creating web apps and APIs with a clean, simple, and flexible structure. It is powered by an ecosystem of powerful modules with zero setup. A YouTube channel with video tutorials is available.

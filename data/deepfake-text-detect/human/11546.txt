@@ -1,0 +1,1 @@
+This repository contains a PyTorch implementation of "Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization." The code can create high-resolution 3D models of humans from a single image. A Google Collab demo is available, and user-submitted examples are available on Twitter.

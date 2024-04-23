@@ -1,0 +1,1 @@
+Microdiff is a zero-dependency object and array comparison library. It is fast, extremely lightweight, and easy to use. Microdiff features support for Deno, Node, the web, service workers, TypeScript, and more.

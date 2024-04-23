@@ -1,0 +1,1 @@
+Gridsort sorts data by storing it in a simplified binary cube, which offers excellent cache utilization. It is a simplified implementation of cubesort. Benchmarks and visualizations are available.

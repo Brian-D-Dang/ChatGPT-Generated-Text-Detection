@@ -1,0 +1,1 @@
+This repository contains a collection of resources on Falsehoods in development. Falsehood articles try to approach an unfamiliar domain by dispelling myths, pointing out common pitfalls, and showing inconsistencies and subtleties. Subjects covered include Arts, Education, Multimedia, Phone numbers, Software Engineering, Society, and more.

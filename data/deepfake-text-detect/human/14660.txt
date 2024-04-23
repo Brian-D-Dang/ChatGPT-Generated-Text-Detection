@@ -1,0 +1,1 @@
+Inventory systems are generally software products that connect to your accounting system or cash register and update your inventory records as you make sales and buy new product. On the converse, you can also track your inventory manually by keeping an inventory log on paper or in an excel workbook, and by updating your inventory yourself periodically.

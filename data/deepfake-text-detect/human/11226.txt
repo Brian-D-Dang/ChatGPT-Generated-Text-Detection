@@ -1,0 +1,1 @@
+The SvelteKit beta is now available. SvelteKit is a framework for building high-performance web apps. It features server-side rendering, routing, code-splitting for JS and CSS, adaptors for different serverless platforms, and more. There are still known bugs and several missing features.

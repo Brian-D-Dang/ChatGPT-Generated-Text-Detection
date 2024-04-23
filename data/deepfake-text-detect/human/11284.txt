@@ -1,0 +1,1 @@
+LineClipper is a Chrome Extension that optimizes a developer's flow between the browser and the IDE when executing file retrieval. It copies files paths with their respective line numbers to your clipboard when clicking on specific line numbers on GitHub. Example images are available.

@@ -1,0 +1,1 @@
+Algo Deck is an open-source collection of over 200 algorithmic flash cards. The aim of the project is to prepare developers to succeed in algorithm and data structure interviews. Topics include arrays, encoding, hash tables, recursion, math, and more. The code examples are in Java.

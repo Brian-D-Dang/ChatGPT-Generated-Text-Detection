@@ -1,0 +1,1 @@
+SVGs have cool benefits like crisp image quality with a single file, support for emojis, inline icons, and dark mode detection. This article discusses how to add SVG favicons to a project. Code and examples are provided.

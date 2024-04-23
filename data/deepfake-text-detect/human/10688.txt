@@ -1,0 +1,1 @@
+A couple of gyroscopes to keep it on course, and a [PIGA] (URL0) system to track distancespeed. The exact position of the launch site and target were both know, so there was no need for anything exceedingly complex, just "Fly this far in this direction, the cut the motor" stuff.

@@ -1,0 +1,1 @@
+Nebular is a UI library based on Eva Design System specifications, with over 40 UI components, four visual themes, and Auth and Security modules. It was created to be customizable, and designs are made to be compatible with both mobile and web platforms. Each module is separate, so designers can install only what is necessary. A demo website is available.

@@ -1,0 +1,1 @@
+A CSS pseudo-element is a keyword added to a selector that lets you style a specific part of a selected element. This post discusses five pseudo-elements in order to help developers avoid writing unnecessary JavaScript for something that could easily be achieved with CSS. Codepen examples are provided.

@@ -1,0 +1,1 @@
+PacVim is a game that teaches the player Vim commands. It uses the concept of the classic game Pacman to get users to practice Vim commands in a fun environment. It comes with 10 levels and users can create their own maps.

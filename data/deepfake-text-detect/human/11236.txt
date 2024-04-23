@@ -1,0 +1,1 @@
+tmpsms generates a temporary phone number for receiving SMSes. It was designed for bug bounty hunters who don't want to use their personal phone numbers. tmpsms can be integrated with other scripts to improve workflow.

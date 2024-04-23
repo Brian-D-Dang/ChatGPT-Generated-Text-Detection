@@ -1,0 +1,1 @@
+React Arborist is a fully-featured tree component for React. It provides all the common features expected in a tree, for example, it can open and close folders, efficiently show thousands of items, rename items, and drag and drop to reorder files. A live demo is available.

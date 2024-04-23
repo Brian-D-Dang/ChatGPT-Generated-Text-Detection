@@ -1,0 +1,1 @@
+Gitmoji allows you to use emojis on git commit messages to provide an easy way to identify the purpose or intention of a commit. A guide on how to use the emojis is available. Links to clients and extensions for using Gitmoji in the command-line or IDE are provided.

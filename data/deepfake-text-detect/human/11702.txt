@@ -1,0 +1,1 @@
+htmlq can extract content from HTML files using CSS selectors. It can be used to find all the links in a page, the text content of a post, pretty print HTML, and more. Examples are available.

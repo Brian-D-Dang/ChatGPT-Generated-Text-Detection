@@ -1,0 +1,1 @@
+[substeps] Make sure the chair is not wobbly, and doesn't rotate or have wheels (e.g. an office chair) if you are at the gym, you can sit on a weightlifting bench.

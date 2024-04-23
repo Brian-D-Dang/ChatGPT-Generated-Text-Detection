@@ -1,0 +1,1 @@
+mirrord mirrors traffic from production environments into development environments. It captures traffic from targeted pods through a privileged pod on the same node. mirrord is both a Visual Studio Code extension and a command-line tool.

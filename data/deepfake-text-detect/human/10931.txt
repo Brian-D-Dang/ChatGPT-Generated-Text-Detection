@@ -1,0 +1,1 @@
+Well, part of the issue might be that the numbers are fuzzed a bit. Of course, the automatic 1 you get for making a post doesn't get added to your karma. So 4 links posted from you, minus 4 (because each link has one uncounted upvote), equals 10. Seems okay to me.

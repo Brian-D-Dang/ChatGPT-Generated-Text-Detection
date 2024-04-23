@@ -1,0 +1,1 @@
+This project implements a backend for sql.js that treats IndexedDB like a disk and stores data in blocks there. It makes the sqlite3 database persistent in a way where it can read and write to the database in small chunks. A demo is available.

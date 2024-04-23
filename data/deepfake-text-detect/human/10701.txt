@@ -1,0 +1,1 @@
+Many intersections are controlled by a combination of timers and inductive sensors in the road. Each phase is generally set to have a maximum time, but the phase may be ended early or skipped entirely if there is no vehicle waiting at or moving past the sensor.

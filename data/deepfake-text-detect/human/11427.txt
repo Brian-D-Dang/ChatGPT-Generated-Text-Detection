@@ -1,0 +1,1 @@
+Stories of data loss can be embarrassing, but they help people learn useful things in case they end up in similar situations. This article tells the story of how a file was accidentally overwritten using the mv command, what the author attempted to do to fix the issue, and how the issue was fixed in the end.

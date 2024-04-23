@@ -1,0 +1,1 @@
+As a battery runs down, the voltage it outputs declines. Eventually some of the circuits won't receive enough voltage to operate correctly; others may be more tolerant of the lower voltages. At some point, the device will simply cease to function when a critical circuit can no longer function. Until then, various circuits may operate, but not operate correctly.

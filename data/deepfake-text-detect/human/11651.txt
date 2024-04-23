@@ -1,0 +1,1 @@
+asm is a package that provides algorithms optimized to leverage the characteristics of modern CPUs. Programs that fail to leverage the full sets of instructions available from cloud providers are paying for features they do not use. The library may be useful for developers using Go in performance-sensitive software.

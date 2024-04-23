@@ -1,0 +1,1 @@
+Ethermint is a Proof-of-Stake blockchain that is fully compatible and interoperable with Ethereum. It features Web3 and EVM compatibility, high throughput via Tendermint Core, horizontal scalability through IBC, and fast transaction finality. Ethermint is under very active development and should not be run in production.

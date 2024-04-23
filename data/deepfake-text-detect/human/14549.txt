@@ -1,0 +1,1 @@
+spits out the mixture and shows off pictures in the end.

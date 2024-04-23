@@ -1,0 +1,1 @@
+[step] The tc number is the complete 20 digit barcode number of the receipt. [title] Type the barcode number of the receipt in.

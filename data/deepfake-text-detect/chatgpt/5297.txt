@@ -1,0 +1,1 @@
+To pull an example of a single thread forum off the web: [here] . The only situation where single threads might be good is where a fixed group is involved, in particular if it's a group that includes multiple threads. In other words, there aren't any issues here because the threads are fixed rather than distributed as individual threads.

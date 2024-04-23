@@ -1,0 +1,1 @@
+Dear PyGui is a Python GUI framework. It uses the immediate mode paradigm which allows for extremely dynamic interfaces. Dear PyGui draws widgets using the computer's GPU and works on Windows 10, macOS, and Linux. It includes plottinggraphing features, themes, a drawing API for custom drawings, and tools for app development. Examples are available in the repository.

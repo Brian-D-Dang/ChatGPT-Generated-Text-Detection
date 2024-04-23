@@ -1,0 +1,1 @@
+OpenBot leverages a smartphone's sensing and computation capabilities to create a low-cost robot. The project includes a design for a small electric vehicle that serves as a robot body. OpenBot supports advanced robotics workloads such as person following and real-time autonomous navigation. It is for Android smartphones only.

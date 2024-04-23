@@ -1,0 +1,1 @@
+Some games might work better, some worse, it depends on a lot of factors. Valve, for example, put a lot of effort into optimizing games and even drivers for their games for marketing purposes (SteamOS is based on Linux).

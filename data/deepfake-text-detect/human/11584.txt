@@ -1,0 +1,1 @@
+Crowdsec is a modern behavior detection system written in Go. It can detect peers with aggressive behaviors to prevent them from accessing systems. Crowdsec features a fast and easy installation, out-of-the-box detection, easy bouncer deployment, and easy dashboard access. It is currently still in beta.

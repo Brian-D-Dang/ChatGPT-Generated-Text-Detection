@@ -1,0 +1,1 @@
+[substeps] Know your planned tile size, how many tiles you need total, and how the tiles will fit into rows ahead of time. If you can get a tile size that requires minimal cutting and fitting your life will be much easier.

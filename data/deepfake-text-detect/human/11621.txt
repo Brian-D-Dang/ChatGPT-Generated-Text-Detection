@@ -1,0 +1,1 @@
+Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. It generates optimized LLVM bytecode for the given pipeline and input dataset instead of using the Python interpreter. Tuplex can run data science pipelines 5-91 times faster than systems that call into a Python interpreter.

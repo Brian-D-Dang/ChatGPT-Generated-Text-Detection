@@ -1,0 +1,1 @@
+walk offscreen as they play, and we see rows of empty seats.

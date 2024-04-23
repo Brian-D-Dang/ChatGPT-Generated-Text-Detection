@@ -1,0 +1,1 @@
+This article follows a software engineering student's attempt at training a more efficient version of the 124M parameter version of GPT-2. The resulting model didn't perform as well as GPT-2. There were some restrictions in the research. The article contains a detailed writeup of the experiment, with a focus on the lessons learned along the way.

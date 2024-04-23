@@ -1,0 +1,1 @@
+Drag the duplicate layer to the folder; the folder will serve as the holder of all your edited layers. [title] Apply a blur filter on your duplicated layer by going to filter] blur] surface blur.

@@ -1,0 +1,1 @@
+xh is a tool for sending HTTP requests. It supports HTTPS, sending data as JSON or as form fields, downloads, authentication, proxies, and more. A GIF example is available in the repository.

@@ -1,0 +1,1 @@
+The pressure could break the ice around the door's seal, enabling you to open the door. [substeps] This section assumes you can unlock your car, but not open it.

@@ -1,0 +1,1 @@
+handwritten.js converts typed text to realistic handwriting. It takes the path to a text file as input and outputs a pdf. An example of the output is available in the repository.

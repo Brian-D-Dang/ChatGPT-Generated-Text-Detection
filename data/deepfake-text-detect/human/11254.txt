@@ -1,0 +1,1 @@
+Edtr.io is an in-line web editor written in React. Pages made in edtr.io look like the final page. Developers can create pages by dragging and dropping elements. Edtr.io is lean and can be made adaptable to any use case through its plugin architecture.

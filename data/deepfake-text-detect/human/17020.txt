@@ -1,0 +1,1 @@
+The matrix version of the entropy-power inequality for real or complex coefficients and variables is proved using a transportation argument that easily settles the equality case. An application to blind source extraction is given.

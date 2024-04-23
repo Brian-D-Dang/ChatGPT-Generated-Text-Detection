@@ -1,0 +1,1 @@
+Scalene is a high-performance CPU and memory profiler for Python. It is fast as it uses sampling instead of instrumentation or relying on Python's tracing facilities. Scalene performs CPU profiling at the line level, providing a high level of detail. The line tracking can also identify code responsible for memory growth.

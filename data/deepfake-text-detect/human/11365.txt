@@ -1,0 +1,1 @@
+This repository contains a guide on how to secure anything, whether it is physical or digital. It covers best practices, defenses, vulnerabilities, and more. There are many resources linked throughout the repository and a section on recommended books at the end.

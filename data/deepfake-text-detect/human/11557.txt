@@ -1,0 +1,1 @@
+Lemonadejs is a super lightweight vanilla javascript micro-library that helps with the integration between JavaScript and HTML. It supports two-way binding and integrates natively with Jsuites to make it easy to create interfaces. Lemonadejs can be run in-browser without dependencies, servers, or transpiling. Examples are available.

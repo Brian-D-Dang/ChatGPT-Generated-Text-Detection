@@ -1,0 +1,1 @@
+We consider a broad class of Approximate Message Passing (AMP) algorithms defined as a Lipschitzian functional iteration in terms of an x n n random symmetric matrix A. We establish universality in noise for this AMP in the n -limit and validate this behavior in a number of AMPs popularly adapted in compressed sensing, statistical inferences, and optimizations in spin glasses.

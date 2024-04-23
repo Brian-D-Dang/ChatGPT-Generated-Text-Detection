@@ -1,0 +1,1 @@
+Without knowing more about your situation the most obvious explanation I have is that the senders don't realize that they have to ship packages USPS instead of UPS or FedEx so when they send out the package it gets brought to their local hub, the hub notices its an APO address or the like, slap a RTS on it and back it goes. tl;dr Shipper ignorance.

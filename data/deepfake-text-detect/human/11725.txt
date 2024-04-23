@@ -1,0 +1,1 @@
+Dwarf Fortress is a simulation game where players play in a deeply detailed randomly generated fantasy world. It was programmed by one developer, Tarn Adams, who has been working on the game since 2002. This article features an interview with Adams and explores how Adams managed the Dwarf Fortress codebase over the years and the challenges he faced.

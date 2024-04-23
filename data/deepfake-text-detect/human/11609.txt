@@ -1,0 +1,1 @@
+The Maui Shell is a new convergent Linux shell that aims to work on both mobile and desktop. It is still a work in progress, but there are some usable builds available. This article provides a short preview of Maui Shell. Screenshots of Maui Shell's desktop and mobile modes are available.

@@ -1,0 +1,1 @@
+Learn how OAuth is actually used in the real world. We cover topics like the eight common OAuth modes, how to use the Authorization Code grant, and why you should never use the implicit grant. Become an OAuth expert today! Download here.

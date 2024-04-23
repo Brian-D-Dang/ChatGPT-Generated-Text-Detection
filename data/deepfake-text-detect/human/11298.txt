@@ -1,0 +1,1 @@
+This article covers five common types of tech interview questions. They include trivia-type questions, questions asking about technical specifics, questions obfuscated with fuzzy wording, and questions with unspecified behavior or missing context. The article also discusses how interviewers can improve on these questions and the best way for candidates to answer them.

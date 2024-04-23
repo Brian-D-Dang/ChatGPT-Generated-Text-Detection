@@ -1,0 +1,1 @@
+[substeps] The desoldering pump works best for through-hole connections. You can use it on surface-mounted devices as well, but it is less effective.

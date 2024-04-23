@@ -1,0 +1,1 @@
+This is a newsletter about CSS layouts (flexboxes, grids, modals, and all that good stuff). If you often find yourself googling stuff like "vertical align not working," you might want to take a look at this. Curated by Rachel Andrew, cofounder of Perch CMS.

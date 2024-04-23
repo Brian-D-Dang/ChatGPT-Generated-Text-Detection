@@ -1,0 +1,1 @@
+Flexsearch is a high-performance REST based full-text searching library. It is fast, memory efficient, and has a variety of plug-ins to customize its functionality. Flexsearch is well documented and researched, and the GitHub repository contains benchmark results against other search libraries.

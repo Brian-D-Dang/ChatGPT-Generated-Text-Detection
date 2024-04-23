@@ -1,0 +1,1 @@
+In Part 1, when comparing the uses of Kafka vs MQTT, we concluded that in a basic publish-and-subscribe model of an IoT device, Kafka might be overkill. However, we also learned that Kafka has some valuable features to utilize within an IoT architecture and that's what we will focus on in this part. Learn more.

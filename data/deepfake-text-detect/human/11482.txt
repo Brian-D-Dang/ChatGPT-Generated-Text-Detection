@@ -1,0 +1,1 @@
+Everyone is talking about Kubernetes! Apps running in these workloads probably have the concept of users. And where you have users, you have auth. We'll cover topics like service-to-service communication, RBAC, OIDC mapping, and more. Download the eBook today!

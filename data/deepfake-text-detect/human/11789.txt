@@ -1,0 +1,1 @@
+Blocks is a JSX-based page builder for creating websites without writing code. It comes with built-in components that are designed and implemented with Theme UI. The editor reads and writes production-ready React code. A GIF demo is available.

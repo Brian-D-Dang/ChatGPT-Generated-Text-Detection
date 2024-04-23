@@ -1,0 +1,1 @@
+While there has been remarkable progress on object detection and re-identification in recent years, little attention has been focused on accomplishing the two tasks in a single network to improve the inference speed. Initial attempts ended up with degraded results. This project aims to explain the reasons behind earlier failures and to present a baseline to address these issues.

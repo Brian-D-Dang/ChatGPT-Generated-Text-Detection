@@ -1,0 +1,1 @@
+JupyterLite is a JupyterLab distribution that runs entirely in the browser. It features a Python kernel backed by Pyodide, basic session and kernel management, code consoles, and more. It can be easily deployed without a dedicated application server. JupyterLite is still in active development.

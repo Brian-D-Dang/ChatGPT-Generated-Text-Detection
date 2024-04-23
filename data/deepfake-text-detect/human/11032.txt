@@ -1,0 +1,1 @@
+Vote weight simply tracks the total net points you have given to a certain person. The ability to manually set it to whatever number is a novelty feature. Also, I believe the creator of xkcd (Randall Munroe) wrote reddit's ranking algorithm.
