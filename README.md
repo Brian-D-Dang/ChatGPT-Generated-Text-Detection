@@ -19,4 +19,4 @@ intelligence, natural language generation, dataset generalization,
 cross validation, princicpal component analysis, logistic regression, linear discriminant analysis
 <br>
 <br>
-**Paper**: [Discerning Differences: Synthetic Text and Human Text]([https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/Brian-D-Dang/Discerning-Differences-Synthetic-Text-and-Human-Text/blob/main/Discerning_Differences_Synthetic_Text_and_Human_Text.pdf))
+**Paper**: [Discerning Differences: Synthetic Text and Human Text](https://github.com/Brian-D-Dang/Discerning-Differences-Synthetic-Text-and-Human-Text/blob/main/Discerning_Differences_Synthetic_Text_and_Human_Text.pdf)
